@@ -1,0 +1,4 @@
+train: C:\Code\Danya\Yolotry\train
+val: C:\Code\Danya\Yolotry\test
+nc: 3
+names: ['92', '95', '98']
